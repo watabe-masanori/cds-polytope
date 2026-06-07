@@ -1,0 +1,49 @@
+                    GNU AFFERO GENERAL PUBLIC LICENSE
+                       Version 3, 19 November 2007
+
+ Copyright (C) 2026  Masanori Watabe
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+                            Preamble
+
+  The GNU Affero General Public License is a free, copyleft license for
+software and other kinds of works, specifically designed to ensure
+cooperation with the community in the case of network server software.
+
+  The licenses for most software and other practical works are designed
+to take away your freedom to share and change the works.  By contrast,
+our General Public Licenses are intended to guarantee your freedom to
+share and change all versions of a program--to make sure it remains free
+software for all its users.
+
+[... Full AGPL v3 text — will be populated by GitHub automatically
+     when you select AGPL-3.0 during repository creation ...]
+
+---
+
+ADDITIONAL TERMS (Section 7 of AGPL v3)
+
+COMMERCIAL USE RESTRICTION:
+  Applications of this software in the following domains require a
+  separate commercial license agreement with the copyright holder:
+
+  (a) Financial market forecasting, trading, or risk assessment systems
+  (b) Insurance premium calculation or actuarial modeling systems
+  (c) Medical diagnosis, clinical decision support, or patient monitoring
+  (d) Infrastructure monitoring for commercial purposes
+
+  Contact: dabmasa@gmail.com
+
+PUBLIC GOOD EXCEPTION (永久無償条項):
+  The following uses are and shall remain free of charge, forever:
+
+  (a) Earthquake hazard mitigation and disaster prevention
+  (b) Non-commercial scientific research and education
+  (c) Government and public institution use for public safety
+  (d) Any use by individual researchers without commercial intent
+
+  "WCMで命を守る、守り続ける。"
+  (Protect lives with WCM — and keep protecting them.)
+
+  — Masanori Watabe, Sendai, Japan, 2026

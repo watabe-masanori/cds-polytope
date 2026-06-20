@@ -275,16 +275,17 @@ Expected output for ρ=20 (periodic):   `cosD ≈ 0.68`
 
 ---
 
-## Notebooks (Coming)
+## Notebooks
 
-Three demonstration notebooks are in preparation.
-Each is a self-contained experiment that reproduces a key finding:
+Four demonstration notebooks — each a self-contained experiment
+reproducing a key finding. All validated on Anaconda Cloud.
 
 | Notebook | Finding | Status |
 |----------|---------|--------|
-| `lorenz_24cell.ipynb` | 2-wing symmetry detection + cosD = Lyapunov surrogate | 🔜 |
-| `typhoon_attractor.ipynb` | Fractal dimension D_eff ≈ 2.0 ≈ Lorenz D₂ ≈ 2.06 | 🔜 |
-| `enso_typhoon_isomorphism.ipynb` | ENSO ↔ typhoon shape-vector similarity 0.666 | 🔜 |
+| `lorenz_24cell.ipynb` | Lorenz 2-wing symmetry + cosD = Lyapunov surrogate (WX-4) | ✅ |
+| `typhoon_attractor.ipynb` | D_eff = 1.991 ≈ Lorenz D₂ = 2.06 (WX-4) | ✅ |
+| `enso_typhoon_isomorphism.ipynb` | ENSO ↔ typhoon cosine similarity 0.666 (WX-5) | ✅ |
+| `nb4_fin_cds.ipynb` | cosD precedes VIX by +211 days — 3 crashes (FIN-4) | ✅ |
 
 ---
 
@@ -388,11 +389,19 @@ Preceding Large Earthquakes: Empirical Scaling Relationships from a
 4D Geometric Analysis*
 Submitted to **Seismica** (2026-06-18)
 
-### In Preparation
+### Preprints
 
-**Watabe & Claude 2026** — *24-Cell Polytope Discretization as an Explainable
+**Watabe & Claude 2026a** — *24-Cell Polytope Discretization as an Explainable
 4D Similarity Measure: From Seismic Source Clouds to Climate Attractors*
-Target: **arXiv cs.LG / cs.AI → Nature Machine Intelligence**
+ESSOAr (Bridge Paper A, submitted 2026-06-19, in moderation)
+Target: **arXiv cs.LG → Nature Machine Intelligence**
+
+**Watabe & Claude 2026b** — *24-Cell Polytope as an Early Warning System for
+Market Criticality: cosD Precedes VIX by 211 Days Across Three Financial Crashes*
+SSRN: [Abstract 6969099](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6969099)
+(Bridge Paper B, submitted 2026-06-20)
+> **Finding FIN-4:** cosD precedes VIX by average **+211 days**
+> across 2008 Lehman / 2020 COVID / 2022 Fed Hike crashes
 
 ---
 

@@ -403,6 +403,13 @@ SSRN: [Abstract 6969099](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=696
 > **Finding FIN-4:** cosD precedes VIX by average **+211 days**
 > across 2008 Lehman / 2020 COVID / 2022 Fed Hike crashes
 
+**Watabe & Claude 2026c** — *Self-Dual Geometry of the 24-Cell Polytope as a Unified
+Framework for Fourier Transform, Heisenberg Uncertainty, and Weierstrass Fractal Dimension*
+Zenodo: [10.5281/zenodo.20783868](https://doi.org/10.5281/zenodo.20783868)
+(Bridge Paper C, published 2026-06-21)
+> **Finding FIN-2:** 24-cell self-duality simultaneously encodes Fourier duality,
+> Heisenberg uncertainty (time=0 fixation: Δt→0 ↔ ΔE→∞), and Weierstrass fractal (D_eff ≈ D_f ≈ D₂)
+> Target: **arXiv math-ph** (endorsement pending)
 ---
 
 ## Theoretical Background
